@@ -100,7 +100,14 @@
   font-weight: 500;
 }
 
-@media only screen and (max-width:560px){
+@media only screen and (max-width:412px){
     input::placeholder{
-    font-size: 13px;
+    font-size: 12PX;
+    font-weight: bold;
+}
+body {
+  background-image: url("/images/weather.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 }

@@ -99,3 +99,9 @@
   color: red;
   font-weight: 500;
 }
+
+@media only screen and (max-width:600px){
+    input::placeholder{
+    font-size: 12PX;
+    font-weight: bold;
+}

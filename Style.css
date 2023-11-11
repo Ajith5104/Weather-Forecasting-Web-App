@@ -6,13 +6,13 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-body {
+/* body {
   background-image: url("/images/weather.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
   height: 100%;
-}
+} */
 .card {
   width: 90%;
   max-width: 470px;

@@ -102,5 +102,5 @@
 
 @media only screen and (max-width:560px){
     input::placeholder{
-    font-size: 12px;
+    font-size: 13px;
 }

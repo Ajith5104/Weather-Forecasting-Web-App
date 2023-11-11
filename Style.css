@@ -100,7 +100,7 @@
   font-weight: 500;
 }
 
-@media only screen and (max-width:600px){
+@media only screen and (max-width:560px){
     input::placeholder{
     font-size: 16px;
     font-weight: bold;
